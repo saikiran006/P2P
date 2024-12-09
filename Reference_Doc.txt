@@ -1,0 +1,6 @@
+Two types of sockets: 
+
+Stream Sockets: Stream sockets (like TCP) are like making a reliable phone call, ensuring that 
+all information is delivered correctly.
+Datagram Sockets: Datagram sockets (like UDP) are more like sending letters. they’re faster but
+ might get lost
